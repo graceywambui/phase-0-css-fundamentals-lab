@@ -2,4 +2,29 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+  margin: auto;
+}
+
+nav{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: goldenrod;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 12px;
+}
+
+p{
+  margin: left 800px;
+  margin: right 800px;
+}
+
+div{
+  float: left;
+  background-color: goldenrod;
+  text-align: center;
+  width: 25%;
 }
